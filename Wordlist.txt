@@ -1,0 +1,10 @@
+## 📜 Exemplos de Wordlists
+
+### `wordlist.txt`
+```text
+admin
+admin123
+123456
+password
+letmein
+qwerty
